@@ -1,0 +1,90 @@
+{
+  "source_note": "Values below are sampled from the supplied raster/transparent brand assets. Preserve master logo files as-is. If official HEX/RGB/CMYK/Pantone values are available in the original vector brandbook, they should replace sampled values here.",
+  "brand_master_sampled": {
+    "talisman_teal": {
+      "hex": "#0A7880",
+      "rgb": [
+        10,
+        120,
+        128
+      ],
+      "source": "Talisman.png"
+    },
+    "talisman_gold": {
+      "hex": "#D9C179",
+      "rgb": [
+        217,
+        193,
+        121
+      ],
+      "source": "Лого ДВ.png"
+    },
+    "talisman_charcoal": {
+      "hex": "#56514D",
+      "rgb": [
+        86,
+        81,
+        77
+      ],
+      "source": "Лого ДВ.png"
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ]
+    }
+  },
+  "presentation_operational_palette": {
+    "primary_teal": {
+      "hex": "#007782",
+      "rgb": [
+        0,
+        119,
+        130
+      ]
+    },
+    "deep_teal": {
+      "hex": "#136572",
+      "rgb": [
+        19,
+        101,
+        114
+      ]
+    },
+    "gold": {
+      "hex": "#D8C27E",
+      "rgb": [
+        216,
+        194,
+        126
+      ]
+    },
+    "pale_gold": {
+      "hex": "#E7D7AD",
+      "rgb": [
+        231,
+        215,
+        173
+      ]
+    },
+    "muted_teal": {
+      "hex": "#639BA5",
+      "rgb": [
+        99,
+        155,
+        165
+      ]
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ]
+    }
+  }
+}
